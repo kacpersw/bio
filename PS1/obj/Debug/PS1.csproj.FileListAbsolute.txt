@@ -1,0 +1,30 @@
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS1\PS1\obj\Debug\PS1.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS1\PS1\obj\Debug\MainWindow.g.cs
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS1\PS1\obj\Debug\App.g.cs
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS1\PS1\obj\Debug\PS1_MarkupCompile.cache
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS1\PS1\obj\Debug\PS1_MarkupCompile.lref
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS1\PS1\bin\Debug\PS1.exe.config
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS1\PS1\bin\Debug\PS1.exe
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS1\PS1\bin\Debug\PS1.pdb
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS1\PS1\obj\Debug\MainWindow.baml
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS1\PS1\obj\Debug\PS1.g.resources
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS1\PS1\obj\Debug\PS1.Properties.Resources.resources
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS1\PS1\obj\Debug\PS1.csproj.GenerateResource.Cache
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS1\PS1\obj\Debug\PS1.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS1\PS1\obj\Debug\PS1.exe
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS1\PS1\obj\Debug\PS1.pdb
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS 1\PS1\bin\Debug\PS1.exe.config
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS 1\PS1\bin\Debug\PS1.exe
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS 1\PS1\bin\Debug\PS1.pdb
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS 1\PS1\obj\Debug\PS1.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS 1\PS1\obj\Debug\MainWindow.g.cs
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS 1\PS1\obj\Debug\App.g.cs
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS 1\PS1\obj\Debug\PS1_MarkupCompile.cache
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS 1\PS1\obj\Debug\PS1_MarkupCompile.lref
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS 1\PS1\obj\Debug\MainWindow.baml
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS 1\PS1\obj\Debug\PS1.g.resources
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS 1\PS1\obj\Debug\PS1.Properties.Resources.resources
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS 1\PS1\obj\Debug\PS1.csproj.GenerateResource.Cache
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS 1\PS1\obj\Debug\PS1.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS 1\PS1\obj\Debug\PS1.exe
+C:\Users\Kacper\OneDrive\Semestr VI\Biometria\PS 1\PS1\obj\Debug\PS1.pdb
